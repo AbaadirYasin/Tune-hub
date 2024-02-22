@@ -210,7 +210,7 @@ function App() {
         ''
       }
       <Player/>
-     <TopSongsComponent/>
+      <TopSongsComponent/>
     </div>
   );
 }
